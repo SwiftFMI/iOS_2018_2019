@@ -1,4 +1,4 @@
-<center> <h1> Xcode </h1> </center>
+<center> <h1> Xcode </h1> </center> 
 
 <center> ![open_quickly](assets/lecture1/Xcode10.png) </center>
 
