@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Login View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="LoginViewController" customModule="Login_Start" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+        <!--Congrats View Controller-->
+        <scene sceneID="veL-hQ-ZmN">
+            <objects>
+                <viewController id="FAu-zg-oCQ" customClass="CongratsViewController" customModule="Login_Start" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="idh-Nw-tQ6">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Честито!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vbu-7B-lkn">
+                                <rect key="frame" x="79" y="204.5" width="217" height="58"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="50"/>
+                                <color key="textColor" red="0.88235294117647056" green="0.098039215686274508" blue="0.33725490196078434" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Току що направихте първият си Login екран." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DzS-ZZ-tzh">
+                                <rect key="frame" x="20" y="282.5" width="335" height="103.5"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="30"/>
+                                <color key="textColor" red="0.086274509803921567" green="0.52156862745098043" blue="0.77254901960784317" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.098039215686274508" green="0.16470588235294117" blue="0.27450980392156865" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="Vbu-7B-lkn" firstAttribute="centerY" secondItem="idh-Nw-tQ6" secondAttribute="centerY" constant="-100" id="Fnt-AD-rXF"/>
+                            <constraint firstItem="DzS-ZZ-tzh" firstAttribute="leading" secondItem="idh-Nw-tQ6" secondAttribute="leading" constant="20" id="GoQ-Bq-vfu"/>
+                            <constraint firstAttribute="trailing" secondItem="DzS-ZZ-tzh" secondAttribute="trailing" constant="20" id="OhI-nM-rzK"/>
+                            <constraint firstItem="DzS-ZZ-tzh" firstAttribute="centerX" secondItem="idh-Nw-tQ6" secondAttribute="centerX" id="iiM-E8-dqj"/>
+                            <constraint firstItem="DzS-ZZ-tzh" firstAttribute="top" secondItem="Vbu-7B-lkn" secondAttribute="bottom" constant="20" id="l9Z-a1-BFQ"/>
+                            <constraint firstItem="Vbu-7B-lkn" firstAttribute="centerX" secondItem="idh-Nw-tQ6" secondAttribute="centerX" id="sRx-65-7oK"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="HZ0-0c-0gq"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="pQd-Wv-0iQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="913" y="18"/>
+        </scene>
+    </scenes>
+</document>
