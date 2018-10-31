@@ -59,21 +59,24 @@ class ViewController: UIViewController {
     }
     
     func updateView() {
-        textLabel?.text = formatPhoneNumber(text: model.store)
+        textLabel?.text = formatPhoneNumber(text: model.store, with: " ")
         eraseButton?.isHidden = model.store?.isEmpty ?? true
     }
     
-    func formatPhoneNumber(text: String?) -> String? {
-        guard var textUnwrapped = text else {
+    func formatPhoneNumber(text: String?, with separator: String) -> String? {
+        guard let textUnwrapped = text else {
             return text
         }
         
-        for (index, symbol) in textUnwrapped.enumerated() {
-            if index % 3 == 0 {
-                textUnwrapped.insert(" ", at: textUnwrapped.index(textUnwrapped.startIndex, offsetBy: index))
+        var formattedText = ""
+        for (index, character) in textUnwrapped.enumerated() {
+            if index != 0 && index % 3 == 0 {
+                formattedText.append(separator)
             }
+            
+            formattedText.append(String(character))
         }
         
-        return textUnwrapped
+        return formattedText
     }
 }
