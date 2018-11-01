@@ -1,0 +1,132 @@
+{
+  "nightclub": {
+    "clubinfo": {
+      "name": "SuperHouse [SH] Night Club",
+      "slogan": "Let's party 'till the break of dawn!",
+      "description": "[SH] night club perfects the art of luxury clubbing, bringing together the most beautiful people in a legendary venue with unparalleled service and world-class entertainment.",
+      "workhours": "Thursday to Saturday | 8PM - 2AM",
+      "phonenumber": "1-800-586-0099",
+      "location": "331 One Street, SFO CA",
+      "facebook": "http://facebook.com/",
+      "twitter": "https://twitter.com/",
+      "instagram": "http://instagram.com/",
+      "soundcloud": "https://soundcloud.com/adventureclub/sets/adventure-club",
+      "soundcloudClientID": "yourclientid",
+      "soundcloudClientSecret": "yourclientsecre"
+    },
+    "galleries": {
+      "gallery": [
+        {
+          "date": "31.12.2015",
+          "cover": "cover_gallery_1.png",
+          "photos": {
+            "photo": [
+              {
+                "url": "img_1_gallery_1.png",
+                "thumb": "thumb_1_gallery_1.png"
+              },
+              {
+                "url": "img_2_gallery_1.png",
+                "thumb": "thumb_2_gallery_1.png"
+              },
+              {
+                "url": "img_3_gallery_1.png",
+                "thumb": "thumb_3_gallery_1.png"
+              },
+              {
+                "url": "img_2_gallery_1.png",
+                "thumb": "thumb_2_gallery_1.png"
+              },
+              {
+                "url": "img_3_gallery_1.png",
+                "thumb": "thumb_3_gallery_1.png"
+              },
+              {
+                "url": "img_1_gallery_1.png",
+                "thumb": "thumb_1_gallery_1.png"
+              },
+              {
+                "url": "img_3_gallery_1.png",
+                "thumb": "thumb_3_gallery_1.png"
+              },
+              {
+                "url": "img_1_gallery_1.png",
+                "thumb": "thumb_1_gallery_1.png"
+              },
+              {
+                "url": "img_2_gallery_1.png",
+                "thumb": "thumb_2_gallery_1.png"
+              }
+            ]
+          }
+        },
+        {
+          "date": "30.12.2015",
+          "cover": "cover_gallery_2.png",
+          "photos": {
+            "photo": [
+              {
+                "url": "img_1_gallery_2.png",
+                "thumb": "thumb_1_gallery_2.png"
+              },
+              {
+                "url": "img_2_gallery_2.png",
+                "thumb": "thumb_2_gallery_2.png"
+              }
+            ]
+          }
+        },
+        {
+          "date": "20.06.2015",
+          "cover": "cover_gallery_3.png",
+          "photos": {
+            "photo": {
+              "url": "img_1_gallery_3.png",
+              "thumb": "thumb_1_gallery_3.png"
+            }
+          }
+        }
+      ]
+    },
+    "events": {
+      "event": [
+        {
+          "date": "Feb 12, 2016 | Friday",
+          "starts": "11PM",
+          "ends": "4AM",
+          "title": "Ladies Night",
+          "subtitle": "Inviting all single ladies!",
+          "description": "Ladies night at SuperHouse [SH] Night club with free entry and great offers on food and beverages! ",
+          "image": "ladies-night.png"
+        },
+        {
+          "date": "Feb 13, 2016 | Saturday",
+          "starts": "10PM",
+          "ends": "3AM",
+          "title": "Tequila Friday",
+          "subtitle": "Tequila night",
+          "description": "Tequila for everyone. Just find your \"match\" and ask the bar tender for more information.\"",
+          "image": "tequila-party.png"
+        },
+        {
+          "date": "Feb 19, 2016 | Friday",
+          "starts": "11PM",
+          "ends": "4AM",
+          "title": "SuperHouse Party",
+          "subtitle": "Dance 'till the end",
+          "description": "SuperHouse Party gurantee you all night dancing with the coolest DJs team ever known to man kind.",
+          "image": "techno-tuesday.png"
+        },
+        {
+          "date": "Feb 20, 2016 | Saturday",
+          "starts": "11PM",
+          "ends": "4AM",
+          "title": "Dancing Angels",
+          "subtitle": "Dance with the Angels",
+          "description": "Supreme dancers will perform alongside everyone in the club. Don't miss the incredible atmosphere.",
+          "image": "dancing_angels.png"
+        }
+      ]
+    }
+  }
+}

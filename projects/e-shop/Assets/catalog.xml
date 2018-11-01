@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    
+    <categories>
+        <!-- start Notebooks Category -->
+        <category id="100">
+            <title>Notebooks</title>
+        </category>
+        <!-- Subcategories of Noteboooks -->
+        <category id="101" parentId="100">
+            <title>Acer</title>
+        </category>
+        
+        <category id="102" parentId="100">
+            <title>Asus</title>
+        </category>
+        
+        <category id="103" parentId="100">
+            <title>Lenovo</title>
+        </category>
+        
+        <category id="104" parentId="100">
+            <title>Toshiba</title>
+        </category>
+        
+        <!-- end Notebooks Category -->
+        
+        <!-- start Smartphones & Tablets Category -->
+        <category id="200">
+            <title>Smartphones and Tablets</title>
+        </category>
+        <!-- Subcategories of Smartphones & Tablets -->
+        <category id="201" parentId="200">
+            <title>Smartphones</title>
+        </category>
+        <category id="202" parentId="200">
+            <title>Tablets</title>
+        </category>
+        <!-- end Smartphones & Tablets Category -->
+        
+        <!-- start Accessories Category -->
+        <category id="300">
+            <title>Accessories</title>
+        </category>
+        <!-- Subcategories of Accessories -->
+        <category id="301" parentId="300">
+            <title>Mouses</title>
+        </category>
+        <category id="302" parentId="300">
+            <title>Headphones</title>
+        </category>
+        <category id="303" parentId="300">
+            <title>SSDs</title>
+        </category>
+        <category id="304" parentId="300">
+            <title>Wi-Fi Routers</title>
+        </category>
+        <!-- end Accessories Category -->
+    </categories>
+    
+    <slider>
+        <!-- Start of slider items -->
+        
+        <product id="1" category="202" price="1000.99" >
+            <date>30.10.2014</date>
+            <title>Nexus 9</title>
+            <photos>
+                <photo>home_nexus9</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="2" category="202" price="600" discount="20">
+            <date>30.10.2014</date>
+            <title>Nexus 9</title>
+            <photos>
+                <photo>http://images.amazon.com/images/G/01/electronics/samsung/samsung-galaxytab2-10-main-wide-lg.jpg</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb</description>            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="3" category="202" price="600" discount="20">
+            <date>30.10.2014</date>
+            <title>Nexus 9</title>
+            <photos>
+                <photo>home_nexus9</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="4" category="202" price="600" discount="20">
+            <date>30.10.2014</date>
+            <title>Nexus 9</title>
+            <photos>
+                <photo>home_nexus9</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="5" category="202" price="600" discount="20">
+            <date>30.10.2014</date>
+            <title>Nexus 9</title>
+            <photos>
+                <photo>home_nexus9</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <!-- End of slider items -->
+    </slider>
+    
+    <products>
+        <product id="6" category="201"  price="999" discount="10">
+            <date>01.10.2014</date>
+            <title>LG G3</title>
+            <photos>
+                <photo>lg_g3</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>5.5 Inches, 1440x2560 pixels, 13 MP Camera, 16 GB Storage</description>
+            <condition>New</condition>
+            <color>Black / White / Gold</color>
+        </product>
+        
+        <product id="7" category="101"  price="1499" discount="10">
+            <date>02.10.2014</date>
+            <title>Acer S7 13.3</title>
+            <photos>
+                <photo>acer_s7</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>The premium Ultrabook from Acer</description>
+            <condition>New</condition>
+            <color>White</color>
+        </product>
+        
+        <product id="8" category="101"  price="1099" discount="10">
+            <date>02.10.2014</date>
+            <title>Acer Aspire V5-571P-6499</title>
+            <photos>
+                <photo>acer_v5</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>The Acer Aspire V5 has a decent design, midrange configuration, and a touch screen, all for a very reasonable price</description>
+            <condition>New</condition>
+            <color>Graphite</color>
+        </product>
+        
+        <product id="9" category="101"  price="499" discount="10">
+            <date>02.10.2014</date>
+            <title>Acer Chromebook CB3-111</title>
+            <photos>
+                <photo>acer_chromebook</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Celeron N2830, 2GB, 16GB SSD, Chrome OS</description>
+            <condition>New</condition>
+            <color>White</color>
+        </product>
+        
+        <product id="10" category="101"  price="399" discount="10">
+            <date>02.10.2014</date>
+            <title>Acer TravelMate TMP276</title>
+            <photos>
+                <photo>acer_travelmate</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Pentium 3556U, 4GB, 1TB HDD, Full HD, GeForce 820M</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="11" category="102"  price="1700" discount="5">
+            <date>03.10.2014</date>
+            <title>ASUS Zenbook 13.3</title>
+            <photos>
+                <photo>zenbook</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Discover the ASUS Zenbook series laptops, equally compact and powerful.</description>
+            <condition>New</condition>
+            <color>Graphite</color>
+        </product>
+        
+        <product id="12" category="102"  price="249" discount="5">
+            <date>03.10.2014</date>
+            <title>ASUS X552WE-SX010D</title>
+            <photos>
+                <photo>asus_x55</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>AMD E2-6110, 4GB, 1TB HDD, Radeon R5 M230</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="13" category="102"  price="349" discount="5">
+            <date>03.10.2014</date>
+            <title>ASUS K555LN-XX224D</title>
+            <photos>
+                <photo>asus_k555</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Core i3-4030U, 4GB, GeForce 840M, Full HD</description>
+            <condition>New</condition>
+            <color>Graphite</color>
+        </product>
+        
+        <product id="14" category="102"  price="2999" discount="15">
+            <date>03.10.2014</date>
+            <title>ASUS TAICHI31-CX018P</title>
+            <photos>
+                <photo>asus_taichi31</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Ultrabook with two displays</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="15" category="103"  price="1800" discount="20">
+            <date>04.10.2014</date>
+            <title>Lenovo Yoga 3 13.3</title>
+            <photos>
+                <photo>lenovo_yoga3</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>IntelÂ® Coreâ„¢ M-70 processor, 13.3" QHD+ 3200 x 1800 IPS multitouch display</description>
+            <condition>New</condition>
+            <color>Light-Brown</color>
+        </product>
+        
+        <product id="16" category="103"  price="1800" discount="23">
+            <date>04.10.2014</date>
+            <title>Lenovo IdeaPad B50-70</title>
+            <photos>
+                <photo>lenovo_ideapad_b50</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Core i3-4030U, 4GB, 500GB HDD</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="17" category="103"  price="1400" discount="25">
+            <date>04.10.2014</date>
+            <title>Lenovo Flex2-14</title>
+            <photos>
+                <photo>lenovo_flex2</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Core i3-4030U, 4GB, 500GB SSHD, multitouch display</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="18" category="103"  price="1600" discount="28">
+            <date>04.10.2014</date>
+            <title>Lenovo ThinkPad Edge E540</title>
+            <photos>
+                <photo>lenovo_thinkpad</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Core i5-4210M, 4GB, 756GB (256GB SSD + 500GB HDD), Win 7 Pro + Win 8.1 Pro</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="19" category="104"  price="999" discount="30">
+            <date>05.10.2014</date>
+            <title>Toshiba Qosmio F50-125</title>
+            <photos>
+                <photo>toshiba_qosmio_f50</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>15.4 ", Toshiba TruBriteÂ® WXGA TFT High Brightness display, Hard disk 400 GB, NVIDIAÂ® GeForceÂ® 9700M GTS supporting TurboCacheâ„¢ technology</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="20" category="104"  price="499" discount="10">
+            <date>05.10.2014</date>
+            <title>Toshiba Satellite L50-B-1M3</title>
+            <photos>
+                <photo>toshiba_satellite_l50</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Pentium N3530, 4GB, 1TB HDD</description>
+            <condition>New</condition>
+            <color>Red</color>
+        </product>
+        
+        <product id="21" category="104"  price="1999" discount="15">
+            <date>05.10.2014</date>
+            <title>Toshiba Tecra Z50-A-16C</title>
+            <photos>
+                <photo>toshiba_tecra</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Core i5-4210U, 8GB, 256GB SSD, Full HD, Win 7 Pro + Win 8.1 Pro</description>
+            <condition>New</condition>
+            <color>Silver</color>
+        </product>
+        
+        <product id="22" category="104"  price="2999" discount="20">
+            <date>05.10.2014</date>
+            <title>Toshiba Portege Z30t-A-11H</title>
+            <photos>
+                <photo>toshiba_portege</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>i7-4510U, 16GB, 512GB SSD, Full HD multitouch display</description>
+            <condition>New</condition>
+            <color>silver</color>
+        </product>
+        
+        <product id="23" category="301"  price="199" discount="20">
+            <date>06.10.2014</date>
+            <title>Azza Optical Gaming Mouse</title>
+            <photos>
+                <photo>mouse_azza</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>A mouse meant for a serious gamer. It has adjustable weight, lighting and features adjustable DPI up to 1600.</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="24" category="301"  price="20" discount="5">
+            <date>06.10.2014</date>
+            <title>HP Optical Mouse</title>
+            <photos>
+                <photo>mouse_hp</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>For regular users, optical navigation, LED, USB</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="25" category="301"  price="30" discount="20">
+            <date>06.10.2014</date>
+            <title>Trust EasyClick Wireless Mouse</title>
+            <photos>
+                <photo>mouse_trust</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>5 buttons, 1000 DPI, Small USB, 2.4 GHz, 6 meters range</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="26" category="301"  price="35" discount="10">
+            <date>06.10.2014</date>
+            <title>Rapoo 3360 Wireless Mouse</title>
+            <photos>
+                <photo>mouse_rapoo</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>5 buttons, 1000 DPI, Small USB, 2.4 GHz, 6 meters range</description>
+            <condition>New</condition>
+            <color>Light-Blue</color>
+        </product>
+        
+        <product id="27" category="302"  price="99" discount="10">
+            <date>30.10.2014</date>
+            <title>Beats Audio Headphones</title>
+            <photos>
+                <photo>beats_audio</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Experience the music with Beats Audio</description>
+            <condition>New</condition>
+            <color>Pink, Orange, Purple, Blue, Graphite</color>
+        </product>
+        
+        <product id="28" category="303"  price="199" discount="30">
+            <date>14.10.2014</date>
+            <title>Samsung 880 Pro Series</title>
+            <photos>
+                <photo>samsung_ssd</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>The top SSD for the top professionals</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+        <product id="29" category="304"  price="49" discount="5">
+            <date>30.10.2014</date>
+            <title>TP-Link Wi-Fi Router</title>
+            <photos>
+                <photo>tp_link</photo>
+                <photo>lg_g3</photo>
+            </photos>
+            <description>Ideal for home and business users</description>
+            <condition>New</condition>
+            <color>Black</color>
+        </product>
+        
+    </products>
+    
+</catalog>
