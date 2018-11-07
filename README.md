@@ -13,7 +13,14 @@ _Залата за провеждане на лекция е_ __310__, дока�
 
 ## Лекции
 
-Всички лекции може да намерите на следния [адрес](E:\Projects\fmi\iOS_2018_2019\lectures).
+Всички лекции може да намерите на следния [адрес](lectures/).
+
+### Теми
+1. [Lecture 1 - Xcode](lectures/Lecture 1 - Xcode.md)
+1. [Lecture 2 - Swift (xCode continue)](lectures/Lecture 2 - Swift (xCode continue).md)
+    * [Git](lectures/Git.md)
+1. [Lecture 3 - UIKit](lectures/Lecture 3 - UIKit.md)
+1. [Lecture 4 - DesignPatterns](lectures/Lecture 4 - DesignPatterns/Шаблони за дизайн.md)
 
 
 
