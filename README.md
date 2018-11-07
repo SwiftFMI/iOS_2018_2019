@@ -16,11 +16,11 @@ _Залата за провеждане на лекция е_ __310__, дока�
 Всички лекции може да намерите на следния [адрес](lectures/).
 
 ### Теми
-1. [Lecture 1 - Xcode](lectures/Lecture 1 - Xcode.md)
-1. [Lecture 2 - Swift (xCode continue)](lectures/Lecture 2 - Swift (xCode continue).md)
+1. [Lecture 1 - Xcode][1]
+1. [Lecture 2 - Swift][2]
     * [Git](lectures/Git.md)
-1. [Lecture 3 - UIKit](lectures/Lecture 3 - UIKit.md)
-1. [Lecture 4 - DesignPatterns](lectures/Lecture 4 - DesignPatterns/Шаблони за дизайн.md)
+1. [Lecture 3 - UIKit][3]
+1. [Lecture 4 - DesignPatterns][4]
 
 
 
@@ -38,3 +38,9 @@ _Залата за провеждане на лекция е_ __310__, дока�
 ### Контакти
 
 За въпроси свързани с курса пишешете тук - swift.fmi@gmail.com
+
+[0]: връзки-към-всички-лекции
+[1]: lectures/
+[2]: lectures/Lecture%202%20-%20Swift%20(xCode%20continue).md
+[3]: lectures/Lecture%203%20-%20UIKit.md
+[4]: lectures/Lecture%204%20-%20DesignPatterns/Шаблони-%20за-%20дизайн.md
