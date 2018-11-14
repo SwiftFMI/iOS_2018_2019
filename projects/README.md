@@ -19,7 +19,7 @@
 1. [Приложение за нощни клубове - Nightclubs](https://github.com/SwiftFMI/2018_prj_nightclub)
 1. [Приложение за курсовете във ФМИ - FMI app](https://github.com/SwiftFMI/2018_prj_fmi)
 1. [Приложение за Откриване на нови рецепти - Recipes](https://github.com/SwiftFMI/2018_prj_recipe)
-1. [Приложение за споделяне на информация - ActiveCitizen]()
+1. [Приложение за споделяне на информация - ActiveCitizen](https://github.com/SwiftFMI/2018_prj_activecitizen)
 1. [Локален чат - Shushu-mushushu](https://github.com/SwiftFMI/2018_prj_shushumushu)
 
 # Екипи
