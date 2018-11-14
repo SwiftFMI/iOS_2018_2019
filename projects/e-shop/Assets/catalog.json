@@ -1,0 +1,570 @@
+{
+  "catalog": {
+    "categories": {
+      "category": [
+        {
+          "id": "100",
+          "title": "Notebooks"
+        },
+        {
+          "id": "101",
+          "parentId": "100",
+          "title": "Acer"
+        },
+        {
+          "id": "102",
+          "parentId": "100",
+          "title": "Asus"
+        },
+        {
+          "id": "103",
+          "parentId": "100",
+          "title": "Lenovo"
+        },
+        {
+          "id": "104",
+          "parentId": "100",
+          "title": "Toshiba"
+        },
+        {
+          "id": "200",
+          "title": "Smartphones and Tablets"
+        },
+        {
+          "id": "201",
+          "parentId": "200",
+          "title": "Smartphones"
+        },
+        {
+          "id": "202",
+          "parentId": "200",
+          "title": "Tablets"
+        },
+        {
+          "id": "300",
+          "title": "Accessories"
+        },
+        {
+          "id": "301",
+          "parentId": "300",
+          "title": "Mouses"
+        },
+        {
+          "id": "302",
+          "parentId": "300",
+          "title": "Headphones"
+        },
+        {
+          "id": "303",
+          "parentId": "300",
+          "title": "SSDs"
+        },
+        {
+          "id": "304",
+          "parentId": "300",
+          "title": "Wi-Fi Routers"
+        }
+      ]
+    },
+    "slider": {
+      "product": [
+        {
+          "id": "1",
+          "category": "202",
+          "price": "1000.99",
+          "date": "30.10.2014",
+          "title": "Nexus 9",
+          "photos": {
+            "photo": [
+              "home_nexus9",
+              "lg_g3"
+            ]
+          },
+          "description": "8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb 8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "2",
+          "category": "202",
+          "price": "600",
+          "discount": "20",
+          "date": "30.10.2014",
+          "title": "Nexus 9",
+          "photos": {
+            "photo": [
+              "http://images.amazon.com/images/G/01/electronics/samsung/samsung-galaxytab2-10-main-wide-lg.jpg",
+              "lg_g3"
+            ]
+          },
+          "description": "8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "3",
+          "category": "202",
+          "price": "600",
+          "discount": "20",
+          "date": "30.10.2014",
+          "title": "Nexus 9",
+          "photos": {
+            "photo": [
+              "home_nexus9",
+              "lg_g3"
+            ]
+          },
+          "description": "8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "4",
+          "category": "202",
+          "price": "600",
+          "discount": "20",
+          "date": "30.10.2014",
+          "title": "Nexus 9",
+          "photos": {
+            "photo": [
+              "home_nexus9",
+              "lg_g3"
+            ]
+          },
+          "description": "8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "5",
+          "category": "202",
+          "price": "600",
+          "discount": "20",
+          "date": "30.10.2014",
+          "title": "Nexus 9",
+          "photos": {
+            "photo": [
+              "home_nexus9",
+              "lg_g3"
+            ]
+          },
+          "description": "8.9 IPS LCD, Android 5.0, NVIDIA Tegra K1 processor 2.3 GHz, 32 Gb",
+          "condition": "New",
+          "color": "Black"
+        }
+      ]
+    },
+    "products": {
+      "product": [
+        {
+          "id": "6",
+          "category": "201",
+          "price": "999",
+          "discount": "10",
+          "date": "01.10.2014",
+          "title": "LG G3",
+          "photos": {
+            "photo": [
+              "lg_g3",
+              "lg_g3"
+            ]
+          },
+          "description": "5.5 Inches, 1440x2560 pixels, 13 MP Camera, 16 GB Storage",
+          "condition": "New",
+          "color": "Black / White / Gold"
+        },
+        {
+          "id": "7",
+          "category": "101",
+          "price": "1499",
+          "discount": "10",
+          "date": "02.10.2014",
+          "title": "Acer S7 13.3",
+          "photos": {
+            "photo": [
+              "acer_s7",
+              "lg_g3"
+            ]
+          },
+          "description": "The premium Ultrabook from Acer",
+          "condition": "New",
+          "color": "White"
+        },
+        {
+          "id": "8",
+          "category": "101",
+          "price": "1099",
+          "discount": "10",
+          "date": "02.10.2014",
+          "title": "Acer Aspire V5-571P-6499",
+          "photos": {
+            "photo": [
+              "acer_v5",
+              "lg_g3"
+            ]
+          },
+          "description": "The Acer Aspire V5 has a decent design, midrange configuration, and a touch screen, all for a very reasonable price",
+          "condition": "New",
+          "color": "Graphite"
+        },
+        {
+          "id": "9",
+          "category": "101",
+          "price": "499",
+          "discount": "10",
+          "date": "02.10.2014",
+          "title": "Acer Chromebook CB3-111",
+          "photos": {
+            "photo": [
+              "acer_chromebook",
+              "lg_g3"
+            ]
+          },
+          "description": "Celeron N2830, 2GB, 16GB SSD, Chrome OS",
+          "condition": "New",
+          "color": "White"
+        },
+        {
+          "id": "10",
+          "category": "101",
+          "price": "399",
+          "discount": "10",
+          "date": "02.10.2014",
+          "title": "Acer TravelMate TMP276",
+          "photos": {
+            "photo": [
+              "acer_travelmate",
+              "lg_g3"
+            ]
+          },
+          "description": "Pentium 3556U, 4GB, 1TB HDD, Full HD, GeForce 820M",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "11",
+          "category": "102",
+          "price": "1700",
+          "discount": "5",
+          "date": "03.10.2014",
+          "title": "ASUS Zenbook 13.3",
+          "photos": {
+            "photo": [
+              "zenbook",
+              "lg_g3"
+            ]
+          },
+          "description": "Discover the ASUS Zenbook series laptops, equally compact and powerful.",
+          "condition": "New",
+          "color": "Graphite"
+        },
+        {
+          "id": "12",
+          "category": "102",
+          "price": "249",
+          "discount": "5",
+          "date": "03.10.2014",
+          "title": "ASUS X552WE-SX010D",
+          "photos": {
+            "photo": [
+              "asus_x55",
+              "lg_g3"
+            ]
+          },
+          "description": "AMD E2-6110, 4GB, 1TB HDD, Radeon R5 M230",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "13",
+          "category": "102",
+          "price": "349",
+          "discount": "5",
+          "date": "03.10.2014",
+          "title": "ASUS K555LN-XX224D",
+          "photos": {
+            "photo": [
+              "asus_k555",
+              "lg_g3"
+            ]
+          },
+          "description": "Core i3-4030U, 4GB, GeForce 840M, Full HD",
+          "condition": "New",
+          "color": "Graphite"
+        },
+        {
+          "id": "14",
+          "category": "102",
+          "price": "2999",
+          "discount": "15",
+          "date": "03.10.2014",
+          "title": "ASUS TAICHI31-CX018P",
+          "photos": {
+            "photo": [
+              "asus_taichi31",
+              "lg_g3"
+            ]
+          },
+          "description": "Ultrabook with two displays",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "15",
+          "category": "103",
+          "price": "1800",
+          "discount": "20",
+          "date": "04.10.2014",
+          "title": "Lenovo Yoga 3 13.3",
+          "photos": {
+            "photo": [
+              "lenovo_yoga3",
+              "lg_g3"
+            ]
+          },
+          "description": "IntelÂ® Coreâ„¢ M-70 processor, 13.3\" QHD+ 3200 x 1800 IPS multitouch display",
+          "condition": "New",
+          "color": "Light-Brown"
+        },
+        {
+          "id": "16",
+          "category": "103",
+          "price": "1800",
+          "discount": "23",
+          "date": "04.10.2014",
+          "title": "Lenovo IdeaPad B50-70",
+          "photos": {
+            "photo": [
+              "lenovo_ideapad_b50",
+              "lg_g3"
+            ]
+          },
+          "description": "Core i3-4030U, 4GB, 500GB HDD",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "17",
+          "category": "103",
+          "price": "1400",
+          "discount": "25",
+          "date": "04.10.2014",
+          "title": "Lenovo Flex2-14",
+          "photos": {
+            "photo": [
+              "lenovo_flex2",
+              "lg_g3"
+            ]
+          },
+          "description": "Core i3-4030U, 4GB, 500GB SSHD, multitouch display",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "18",
+          "category": "103",
+          "price": "1600",
+          "discount": "28",
+          "date": "04.10.2014",
+          "title": "Lenovo ThinkPad Edge E540",
+          "photos": {
+            "photo": [
+              "lenovo_thinkpad",
+              "lg_g3"
+            ]
+          },
+          "description": "Core i5-4210M, 4GB, 756GB (256GB SSD + 500GB HDD), Win 7 Pro + Win 8.1 Pro",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "19",
+          "category": "104",
+          "price": "999",
+          "discount": "30",
+          "date": "05.10.2014",
+          "title": "Toshiba Qosmio F50-125",
+          "photos": {
+            "photo": [
+              "toshiba_qosmio_f50",
+              "lg_g3"
+            ]
+          },
+          "description": "15.4 \", Toshiba TruBriteÂ® WXGA TFT High Brightness display, Hard disk 400 GB, NVIDIAÂ® GeForceÂ® 9700M GTS supporting TurboCacheâ„¢ technology",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "20",
+          "category": "104",
+          "price": "499",
+          "discount": "10",
+          "date": "05.10.2014",
+          "title": "Toshiba Satellite L50-B-1M3",
+          "photos": {
+            "photo": [
+              "toshiba_satellite_l50",
+              "lg_g3"
+            ]
+          },
+          "description": "Pentium N3530, 4GB, 1TB HDD",
+          "condition": "New",
+          "color": "Red"
+        },
+        {
+          "id": "21",
+          "category": "104",
+          "price": "1999",
+          "discount": "15",
+          "date": "05.10.2014",
+          "title": "Toshiba Tecra Z50-A-16C",
+          "photos": {
+            "photo": [
+              "toshiba_tecra",
+              "lg_g3"
+            ]
+          },
+          "description": "Core i5-4210U, 8GB, 256GB SSD, Full HD, Win 7 Pro + Win 8.1 Pro",
+          "condition": "New",
+          "color": "Silver"
+        },
+        {
+          "id": "22",
+          "category": "104",
+          "price": "2999",
+          "discount": "20",
+          "date": "05.10.2014",
+          "title": "Toshiba Portege Z30t-A-11H",
+          "photos": {
+            "photo": [
+              "toshiba_portege",
+              "lg_g3"
+            ]
+          },
+          "description": "i7-4510U, 16GB, 512GB SSD, Full HD multitouch display",
+          "condition": "New",
+          "color": "silver"
+        },
+        {
+          "id": "23",
+          "category": "301",
+          "price": "199",
+          "discount": "20",
+          "date": "06.10.2014",
+          "title": "Azza Optical Gaming Mouse",
+          "photos": {
+            "photo": [
+              "mouse_azza",
+              "lg_g3"
+            ]
+          },
+          "description": "A mouse meant for a serious gamer. It has adjustable weight, lighting and features adjustable DPI up to 1600.",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "24",
+          "category": "301",
+          "price": "20",
+          "discount": "5",
+          "date": "06.10.2014",
+          "title": "HP Optical Mouse",
+          "photos": {
+            "photo": [
+              "mouse_hp",
+              "lg_g3"
+            ]
+          },
+          "description": "For regular users, optical navigation, LED, USB",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "25",
+          "category": "301",
+          "price": "30",
+          "discount": "20",
+          "date": "06.10.2014",
+          "title": "Trust EasyClick Wireless Mouse",
+          "photos": {
+            "photo": [
+              "mouse_trust",
+              "lg_g3"
+            ]
+          },
+          "description": "5 buttons, 1000 DPI, Small USB, 2.4 GHz, 6 meters range",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "26",
+          "category": "301",
+          "price": "35",
+          "discount": "10",
+          "date": "06.10.2014",
+          "title": "Rapoo 3360 Wireless Mouse",
+          "photos": {
+            "photo": [
+              "mouse_rapoo",
+              "lg_g3"
+            ]
+          },
+          "description": "5 buttons, 1000 DPI, Small USB, 2.4 GHz, 6 meters range",
+          "condition": "New",
+          "color": "Light-Blue"
+        },
+        {
+          "id": "27",
+          "category": "302",
+          "price": "99",
+          "discount": "10",
+          "date": "30.10.2014",
+          "title": "Beats Audio Headphones",
+          "photos": {
+            "photo": [
+              "beats_audio",
+              "lg_g3"
+            ]
+          },
+          "description": "Experience the music with Beats Audio",
+          "condition": "New",
+          "color": "Pink, Orange, Purple, Blue, Graphite"
+        },
+        {
+          "id": "28",
+          "category": "303",
+          "price": "199",
+          "discount": "30",
+          "date": "14.10.2014",
+          "title": "Samsung 880 Pro Series",
+          "photos": {
+            "photo": [
+              "samsung_ssd",
+              "lg_g3"
+            ]
+          },
+          "description": "The top SSD for the top professionals",
+          "condition": "New",
+          "color": "Black"
+        },
+        {
+          "id": "29",
+          "category": "304",
+          "price": "49",
+          "discount": "5",
+          "date": "30.10.2014",
+          "title": "TP-Link Wi-Fi Router",
+          "photos": {
+            "photo": [
+              "tp_link",
+              "lg_g3"
+            ]
+          },
+          "description": "Ideal for home and business users",
+          "condition": "New",
+          "color": "Black"
+        }
+      ]
+    }
+  }
+}

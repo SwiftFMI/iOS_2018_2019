@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nightclub>
+    
+    <clubinfo>
+        <!-- The name of the Club -->
+        <name>SuperHouse [SH] Night Club</name>
+        <!-- The slogan of the Club -->
+        <slogan>Let's party 'till the break of dawn!</slogan>
+        <!-- Short description of the Club -->
+        <description>[SH] night club perfects the art of luxury clubbing, bringing together the most beautiful people in a legendary venue with unparalleled service and world-class entertainment.</description>
+        <!-- Club's opening hours -->
+        <workhours>Thursday to Saturday | 8PM - 2AM</workhours>
+        <!-- Club's phone number -->
+        <phonenumber>1-800-586-0099</phonenumber>
+        <!-- Club's address -->
+        <location>331 One Street, SFO CA</location>
+        <!-- Social Networks -->
+        <facebook>http://facebook.com/</facebook>
+        <twitter>https://twitter.com/</twitter>
+        <instagram>http://instagram.com/</instagram>
+        <!-- Soundcloud integration -->
+        <!-- Playlist URL: It has to be created by you -->
+        <soundcloud>https://soundcloud.com/adventureclub/sets/adventure-club</soundcloud>
+        <!--YOUR soundcloud.com client identifier -->
+        <soundcloudClientID>yourclientid</soundcloudClientID>
+        <!--YOUR soundcloud.com client secret -->
+        <soundcloudClientSecret>yourclientsecre</soundcloudClientSecret>
+        <!-- More info about soundcloud integration could be find within the documentation -->
+    </clubinfo>
+    
+    <!-- start Galeries: Each gallery is created using the <gallery> item -->
+    <galleries>
+        <!-- Each <gallery> has mandatory attributes: date (dd.mm.yyyy) and cover (local or remote URL) -->
+        <gallery date = "31.12.2015" cover = "cover_gallery_1.png">
+            <photos>
+                <!-- Every picture that you want to add is represented by <photo> item -->
+                <!-- <photo> item has two attributes: url (big photo) and thumb (thumbnail photo) -->
+                <photo url = "img_1_gallery_1.png" thumb = "thumb_1_gallery_1.png" />
+                <photo url = "img_2_gallery_1.png" thumb = "thumb_2_gallery_1.png" />
+                <photo url = "img_3_gallery_1.png" thumb = "thumb_3_gallery_1.png" />
+                <photo url = "img_2_gallery_1.png" thumb = "thumb_2_gallery_1.png" />
+                <photo url = "img_3_gallery_1.png" thumb = "thumb_3_gallery_1.png" />
+                <photo url = "img_1_gallery_1.png" thumb = "thumb_1_gallery_1.png" />
+                <photo url = "img_3_gallery_1.png" thumb = "thumb_3_gallery_1.png" />
+                <photo url = "img_1_gallery_1.png" thumb = "thumb_1_gallery_1.png" />
+                <photo url = "img_2_gallery_1.png" thumb = "thumb_2_gallery_1.png" />
+            </photos>
+        </gallery>
+        
+        <gallery date = "30.12.2015" cover = "cover_gallery_2.png">
+            <photos>
+                <photo url = "img_1_gallery_2.png" thumb = "thumb_1_gallery_2.png" />
+                <photo url = "img_2_gallery_2.png" thumb = "thumb_2_gallery_2.png" />
+            </photos>
+        </gallery>
+        
+        <gallery date = "20.06.2015" cover = "cover_gallery_3.png">
+            <photos>
+                <photo url = "img_1_gallery_3.png" thumb = "thumb_1_gallery_3.png" />
+            </photos>
+        </gallery>
+        
+    </galleries>
+    <!-- end Galleries -->
+    
+    <!-- start Events: Each event is created using <event> item within <events> section -->
+    <events>
+        <!-- <event> item has 3 attributes: date (when it will take place), starts (start time) and ends (end time) -->
+        <event date = "Feb 12, 2016 | Friday" starts = "11PM" ends = "4AM">
+            <!-- Title of the Event -->
+            <title>Ladies Night</title>
+            <!-- Subtitle of the Event -->
+            <subtitle>Inviting all single ladies!</subtitle>
+            <!-- Short description of the Event -->
+            <description>Ladies night at SuperHouse [SH] Night club with free entry and great offers on food and beverages! </description>
+            <!-- Image of the Event -->
+            <image>ladies-night.png</image>
+        </event>
+        
+        <event date = "Feb 13, 2016 | Saturday" starts = "10PM" ends = "3AM">
+            <title>Tequila Friday</title>
+            <subtitle>Tequila night</subtitle>
+            <description>Tequila for everyone. Just find your "match" and ask the bar tender for more information."</description>
+            <image>tequila-party.png</image>
+        </event>
+        
+        <event date = "Feb 19, 2016 | Friday" starts = "11PM" ends = "4AM">
+            <title>SuperHouse Party</title>
+            <subtitle>Dance 'till the end</subtitle>
+            <description>SuperHouse Party gurantee you all night dancing with the coolest DJs team ever known to man kind.</description>
+            <image>techno-tuesday.png</image>
+        </event>
+        
+        <event date = "Feb 20, 2016 | Saturday" starts = "11PM" ends = "4AM">
+            <title>Dancing Angels</title>
+            <subtitle>Dance with the Angels</subtitle>
+            <description>Supreme dancers will perform alongside everyone in the club. Don't miss the incredible atmosphere.</description>
+            <image>dancing_angels.png</image>
+        </event>
+    </events> 
+    <!-- end Events -->   
+</nightclub>

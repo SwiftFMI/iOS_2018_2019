@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>theme_pink_main_color_darker</key>
+	<string>#b8486f</string>
+	<key>theme_pink_main_color</key>
+	<string>#d2527f</string>
+	<key>theme_neutral_main_color_darker</key>
+	<string>#7f8c8d</string>
+	<key>theme_neutral_main_color</key>
+	<string>#95a5a6</string>
+	<key>theme_darkblue_main_color_darker</key>
+	<string>#2c3e50</string>
+	<key>theme_darkblue_main_color</key>
+	<string>#34495e</string>
+	<key>theme_purple_main_color_darker</key>
+	<string>#8e44ad</string>
+	<key>theme_purple_main_color</key>
+	<string>#9b59b6</string>
+	<key>theme_orange_main_color_darker</key>
+	<string>#d35400</string>
+	<key>theme_orange_main_color</key>
+	<string>#e67e22</string>
+	<key>theme_blue_main_color_darker</key>
+	<string>#2980b9</string>
+	<key>theme_blue_main_color</key>
+	<string>#3498db</string>
+	<key>theme_green_main_color_darker</key>
+	<string>#3e6023</string>
+	<key>theme_green_main_color</key>
+	<string>#699f39</string>
+</dict>
+</plist>
