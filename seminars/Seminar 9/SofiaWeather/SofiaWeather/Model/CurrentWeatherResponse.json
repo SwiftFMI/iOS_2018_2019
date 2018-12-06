@@ -1,0 +1,40 @@
+{
+    "coord": {
+        "lon": 23.32,
+        "lat": 42.7
+    },
+    "weather": [{
+        "id": 801,
+        "main": "Clouds",
+        "description": "ниска облачност",
+        "icon": "02d"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 4,
+        "pressure": 1023,
+        "humidity": 60,
+        "temp_min": 4,
+        "temp_max": 4
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.5,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1544097600,
+    "sys": {
+        "type": 1,
+        "id": 6366,
+        "message": 0.0025,
+        "country": "BG",
+        "sunrise": 1544074959,
+        "sunset": 1544107980
+    },
+    "id": 727011,
+    "name": "Sofia",
+    "cod": 200
+}
