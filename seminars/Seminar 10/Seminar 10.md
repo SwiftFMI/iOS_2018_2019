@@ -7,9 +7,10 @@
 
 и ще реализираме малко приложение, което има за целта да използва `backend` услугите за да съхранява данните в облака.
 
+
 ## Задачи
 
-1. Създайте свой firebase проект
+1. Създайте свой firebase проект [тук](https://firebase.google.com/docs/reference/swift/firebasedatabase/api/reference/Classes).
 2. Интегрирайте го в `MyCompany` проекта
 3. Предложете подходящ формат на данните, които ще съхранявате в `firebase database`.
 	
